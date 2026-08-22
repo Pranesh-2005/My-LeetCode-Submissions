@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +41,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
