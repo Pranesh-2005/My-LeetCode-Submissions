@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
