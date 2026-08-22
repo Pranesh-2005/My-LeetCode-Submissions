@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
@@ -40,10 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
