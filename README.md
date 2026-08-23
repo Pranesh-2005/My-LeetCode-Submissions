@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
