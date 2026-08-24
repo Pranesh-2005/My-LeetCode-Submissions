@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
