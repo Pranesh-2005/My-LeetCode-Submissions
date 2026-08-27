@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0039-combination-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
