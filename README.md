@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 ## String
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -204,10 +206,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
