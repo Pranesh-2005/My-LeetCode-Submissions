@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Merge Sort
@@ -210,15 +211,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
