@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0078-subsets](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -237,9 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
