@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
