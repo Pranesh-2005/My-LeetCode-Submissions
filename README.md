@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
