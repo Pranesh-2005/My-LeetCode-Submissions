@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0051-n-queens/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
