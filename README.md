@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bit Manipulation
