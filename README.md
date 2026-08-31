@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
