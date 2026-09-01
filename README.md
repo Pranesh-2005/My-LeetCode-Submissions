@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
+| [0724-find-pivot-index](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -323,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
