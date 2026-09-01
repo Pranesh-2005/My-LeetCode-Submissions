@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
