@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
