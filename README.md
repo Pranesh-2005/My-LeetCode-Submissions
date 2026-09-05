@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## String
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
