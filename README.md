@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
