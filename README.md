@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0994-rotting-oranges](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1046-last-stone-weight/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
