@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0547-number-of-provinces](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
