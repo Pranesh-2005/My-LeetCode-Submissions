@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
+| [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
@@ -261,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -417,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
