@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0079-word-search/) | Medium |
