@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0056-merge-intervals/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
