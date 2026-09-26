@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1094-car-pooling/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1094-car-pooling/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1094-car-pooling](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1094-car-pooling/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1094-car-pooling](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1094-car-pooling/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,5 +464,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1094-car-pooling](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1094-car-pooling/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
