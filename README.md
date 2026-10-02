@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
