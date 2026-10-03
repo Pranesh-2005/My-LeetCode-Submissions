@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0045-jump-game-ii](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0621-task-scheduler/) | Medium |
