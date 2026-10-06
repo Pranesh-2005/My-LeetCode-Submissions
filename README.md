@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/1094-car-pooling/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
