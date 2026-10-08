@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0198-house-robber](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0198-house-robber](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Design
