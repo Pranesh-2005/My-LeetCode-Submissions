@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0134-gas-station/) | Medium |
+| [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0198-house-robber/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Queue
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
