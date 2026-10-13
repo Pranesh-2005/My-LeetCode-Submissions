@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -514,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0139-word-break/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Pranesh-2005/My-LeetCode-Submissions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
